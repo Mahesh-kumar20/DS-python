@@ -1,0 +1,3 @@
+marks =[25,65,80,35,90,45]
+passed =list(filter(lambda x:x>=50,marks))
+print(passed)
